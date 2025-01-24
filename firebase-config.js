@@ -8,7 +8,7 @@ import {
 const firebaseConfig = {
     apiKey: "AIzaSyAcfpyy--xTN8oIKZjRXsSSaYpt7cxW1uA",
     authDomain: "registroinmuebles-7a3c5.firebaseapp.com",
-    projectId: "registroinmuebles-7a3c5",
+    projectId: "registroinmuebles-7a3cS",
     storageBucket: "registroinmuebles-7a3c5.firebasestorage.app",
     messagingSenderId: "89425397982",
     appId: "1:89425397982:web:58ed261b6335330c84da4f"
