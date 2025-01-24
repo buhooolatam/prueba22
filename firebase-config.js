@@ -6,12 +6,13 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-firestore.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAcfpyy--xTN8oIKZjRXsSSaYpt7cxW1uA",
-    authDomain: "registroinmuebles-7a3c5.firebaseapp.com",
-    projectId: "registroinmuebles-7a3c5",
-    storageBucket: "registroinmuebles-7a3c5.firebasestorage.app",
-    messagingSenderId: "89425397982",
-    appId: "1:89425397982:web:58ed261b6335330c84da4f"
+  apiKey: "AIzaSyCIKpp9EW11UoToULFv-85KpYzKVhhzP_s",
+  authDomain: "realstate-e4a1d.firebaseapp.com",
+  projectId: "realstate-e4a1d",
+  storageBucket: "realstate-e4a1d.firebasestorage.app",
+  messagingSenderId: "776520761319",
+  appId: "1:776520761319:web:6328a5d6d879aaf2ae8742",
+  measurementId: "G-KTQD8LZ4C9"
 };
 
 // Inicializar Firebase
